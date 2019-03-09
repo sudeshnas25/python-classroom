@@ -1,0 +1,5 @@
+file = open("fruits.txt", 'r')
+file.seek(0)
+content = file.read()
+print(content)
+file.close()
