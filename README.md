@@ -12,12 +12,14 @@ find the link here: https://github.com/sudeshnas25/python-classroom/tree/to-do/A
 
 4. DatabaseInteraction : Interacting with SQLite and PostgreSql databases via python. 
   
-        4.1. Using sqlite3. find the link here: https://github.com/sudeshnas25/python-classroom/blob/to-do/DatabaseInteraction/scriptsqlite3.py 
+        4.1. Using sqlite3. find the link here: 
+        https://github.com/sudeshnas25/python-classroom/blob/to-do/DatabaseInteraction/scriptsqlite3.py 
   
-        4.2. Using psycopg2 for PostgreSQL. find the link here: https://github.com/sudeshnas25/python-classroom/blob/to-do/DatabaseInteraction/scriptpostgresql.py
+        4.2. Using psycopg2 for PostgreSQL. find the link here: 
+        https://github.com/sudeshnas25/python-classroom/blob/to-do/DatabaseInteraction/scriptpostgresql.py
 
 
-5.ApplicationWebsiteBlocker : A python script to block certain websites for a given time of the day(working hours) using the hosts file and and datetime library.
+5. ApplicationWebsiteBlocker : A python script to block certain websites for a given time of the day(working hours) using the hosts file and and datetime library.
 find the link here: https://github.com/sudeshnas25/python-classroom/tree/current-progress/ApplicationWebsiteBlocker 
 
 6. GUIwithTkinter : A simple GUI application using Tkinter library in python for the conversion of units.
